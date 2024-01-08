@@ -1,4 +1,4 @@
-package com.example.newsapp.retrofit
+package com.example.newsapp.models
 
 data class NewsResponse(
     val articles: List<Article>,
